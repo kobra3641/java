@@ -1,2 +1,2 @@
 # java
-java core
+All about java core
